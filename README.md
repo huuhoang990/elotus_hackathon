@@ -5,17 +5,12 @@
 - Install Docker Compose: [Docker Compose Official Documentation](https://docs.docker.com/compose/install/)
 
 ## How to run the program
-- Run the following command in your terminal:
-
-* **On macOS and Linux:**
-- Open your terminal, and run the script:
+- On macOS and Linux, open your terminal, and run the script:
     ```bash
     sh setup.sh
     ```
 
-* **On Windows:**
-
-- Open Git Bash, and run the script:
+- On windows, open Git Bash, and run the script:
     ```bash
     sh setup.sh
     ```
